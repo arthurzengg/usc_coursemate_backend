@@ -1,0 +1,249 @@
+[
+  {
+    "model": "groups.group",
+    "pk": 1,
+    "fields": {
+      "code": "CSCI104",
+      "name": "Data Structures and Object Oriented Design",
+      "number": "C1001",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 2,
+    "fields": {
+      "code": "CSCI170",
+      "name": "Discrete Methods in Computer Science",
+      "number": "C1002",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 3,
+    "fields": {
+      "code": "CSCI201",
+      "name": "Principles of Software Development",
+      "number": "C1003",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 4,
+    "fields": {
+      "code": "CSCI270",
+      "name": "Algorithms and Theory of Computing",
+      "number": "C1004",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 5,
+    "fields": {
+      "code": "CSCI360",
+      "name": "Introduction to Artificial Intelligence",
+      "number": "C1005",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 6,
+    "fields": {
+      "code": "CSCI570",
+      "name": "Analysis of Algorithms",
+      "number": "C1006",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 7,
+    "fields": {
+      "code": "CSCI585",
+      "name": "Database Systems",
+      "number": "C1007",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 8,
+    "fields": {
+      "code": "CSCI567",
+      "name": "Machine Learning",
+      "number": "C1008",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 9,
+    "fields": {
+      "code": "CSCI561",
+      "name": "Foundations of Artificial Intelligence",
+      "number": "C1009",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 10,
+    "fields": {
+      "code": "CSCI544",
+      "name": "Applied Natural Language Processing",
+      "number": "C1010",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "course",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 11,
+    "fields": {
+      "code": "CS",
+      "name": "Computer Science Major Group",
+      "number": "M1001",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "major",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 12,
+    "fields": {
+      "code": "DS",
+      "name": "Data Science Major Group",
+      "number": "M1002",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "major",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 13,
+    "fields": {
+      "code": "BIO",
+      "name": "Biology Major Group",
+      "number": "M1003",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "major",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 14,
+    "fields": {
+      "code": "ECON/BUSINESS",
+      "name": "Economics & Business Major Group",
+      "number": "M1004",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "major",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 15,
+    "fields": {
+      "code": "ART",
+      "name": "Art & Design Major Group",
+      "number": "M1005",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "major",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 16,
+    "fields": {
+      "code": "PHYSICS/ENGINEERING",
+      "name": "Physics & Engineering Major Group",
+      "number": "M1006",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "major",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 17,
+    "fields": {
+      "code": "租房群",
+      "name": "USC房屋租赁交流群",
+      "number": "L1001",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "life",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 18,
+    "fields": {
+      "code": "二手群",
+      "name": "USC二手物品交易群",
+      "number": "L1002",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "life",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  },
+  {
+    "model": "groups.group",
+    "pk": 19,
+    "fields": {
+      "code": "运动群",
+      "name": "USC体育运动交流群",
+      "number": "L1003",
+      "qr_code": "/placeholder.svg?height=300&width=300",
+      "type": "life",
+      "created_at": "2025-04-05T00:00:00Z",
+      "updated_at": "2025-04-05T00:00:00Z"
+    }
+  }
+] 

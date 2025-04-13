@@ -145,6 +145,8 @@ else:
     CORS_ALLOW_ALL_ORIGINS = False
     CORS_ALLOWED_ORIGINS = [
         os.getenv('FRONTEND_URL', 'http://localhost:3000'),
+        "https://usccourse.com",
+        "https://www.usccourse.com",
     ]
 CORS_ALLOW_CREDENTIALS = True
 
